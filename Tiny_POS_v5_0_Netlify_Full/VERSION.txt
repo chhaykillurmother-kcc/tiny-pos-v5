@@ -1,3 +1,0 @@
-Tiny POS v5.0.0
-Architecture: Netlify frontend + Netlify Function proxy + Apps Script backend + Google Sheets + Telegram Mini App
-Build date: 2026-07-23
