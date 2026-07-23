@@ -1,0 +1,25 @@
+# Tiny POS v5.0 Included Features
+
+- English and Khmer interface
+- Desktop and mobile layouts
+- Telegram Mini App login and PIN login
+- Exact per-user module permissions
+- Multi-branch sales and inventory
+- Products, categories, units, customers, suppliers
+- Product codes P000001 onward
+- Base units and package conversions such as Can/Box/Bag/Pack/Carton/Tray
+- Separate base and package barcodes
+- Mixed package units in Current Bill
+- Camera, photo, USB/Bluetooth, and manual barcode input
+- Purchases, partial receiving, supplier payments
+- FIFO stock costing and profit
+- Customer returns and supplier returns
+- Stock transfers with missing/damaged receiving variances
+- Stock counts
+- Customer credit accounts
+- Pending invoices
+- Coupons and fixed/percent discounts
+- Cash shifts and searchable expense records
+- Branch/cashier report filters
+- Receipt, invoice, purchase order, and image export
+- Backup/restore and database maintenance

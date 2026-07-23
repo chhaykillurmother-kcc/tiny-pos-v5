@@ -1,0 +1,19 @@
+TINY POS v5.0 QUICK CHECKLIST
+
+1. Create a NEW blank Google Sheet.
+2. Open Extensions > Apps Script.
+3. Paste apps-script/TinyPOS_Backend_V50.gs.
+4. Replace appsscript.json.
+5. Run installTinyPOSV50Fresh.
+6. Run verifyTinyPOSV50.
+7. Deploy Apps Script as Web app: Execute as Me, Anyone.
+8. Run showNetlifyEnvironmentValuesV50.
+9. Upload the complete package to a private GitHub repository.
+10. Import the repository into Netlify.
+11. Add APPS_SCRIPT_WEB_APP_URL and POS_API_SECRET in Netlify.
+12. Deploy Netlify and test browser login + camera.
+13. Create a NEW bot with @BotFather.
+14. Run configureTelegramBotV50.
+15. Send /start and /id to the bot.
+16. Run linkAdministratorTelegramV50.
+17. Complete docs/TEST_CHECKLIST.md before production use.
